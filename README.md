@@ -1,15 +1,15 @@
-# Proyecto Dino Jump
+# Proyecto DinoGame
 
-¡Bienvenidos a **Dino Jump**! Una adaptación del juego del navegador Chrome
+¡Bienvenidos a **DinoGame**! Una adaptación del juego del navegador Chrome
 
 ### Descripción del Proyecto
 
-En **Dino Jump**, controlas a un dinosaurio que se desplaza por la pantalla de un **LCD** y debe saltar para evitar ramas y aves que aparecen al azar. Usamos un **botón de presión** para que el dinosaurio salte en el momento justo y así evitar chocar con los obstáculos.
+En **DinoGame**, controlas a un dinosaurio que se desplaza por la pantalla de un **LCD** y debe saltar para evitar ramas y aves que aparecen al azar. Usamos un **botón** para que el dinosaurio salte en el momento justo y así evitar chocar con los obstáculos.
 
 ### Características principales:
 - **Pantalla LCD** de 16x2 que muestra al dinosaurio en movimiento.
 - Obstáculos aleatorios como ramas y aves que aparecen de derecha a izquierda.
-- Un **botón de presión** para hacer saltar al dinosaurio.
+- Un **botón** para hacer saltar al dinosaurio.
 - **Puntos** que se acumulan cada vez que el dinosaurio evita un obstáculo.
 - Si el dinosaurio no salta a tiempo y choca con un obstáculo, ¡es el fin del juego!
 
@@ -18,7 +18,7 @@ Para armar este proyecto, necesitarás los siguientes componentes:
 
 - **1 Arduino Uno** o cualquier otra placa compatible.
 - **1 pantalla LCD 16x2** (con interfaz de 16 pines).
-- **1 pulsador** para hacer que el dinosaurio salte.
+- **1 botón** para hacer que el dinosaurio salte.
 - **Algunos cables y resistencias** para conectar todo.
 - **1 protoboard** para armar el circuito.
 
