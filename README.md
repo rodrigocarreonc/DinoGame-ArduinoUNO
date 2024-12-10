@@ -1,4 +1,4 @@
-# Proyecto DinoGame
+# Proyecto DinoGame 🕹️
 
 ¡Bienvenidos a **DinoGame**! Una adaptación del juego del navegador Chrome
 
